@@ -47,14 +47,14 @@ public class CarrinhoDeCompras {
 
         //Método Adicionar:
         carrinhoDeCompras.adicionarItem("caderno", 15.0, 2);
-        carrinhoDeCompras.adicionarItem("livro", 95.0, 1);
+        carrinhoDeCompras.adicionarItem("pesquisa", 95.0, 1);
         carrinhoDeCompras.adicionarItem("estojo", 30.0, 1);
 
         //Método Exibir itens:
         carrinhoDeCompras.exibirItens();
 
         //Remover Itém:
-        carrinhoDeCompras.removerItem("livro");
+        carrinhoDeCompras.removerItem("pesquisa");
         carrinhoDeCompras.exibirItens();
 
         //Calcular Valor do carrinho:
