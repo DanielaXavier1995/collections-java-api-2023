@@ -54,8 +54,5 @@ public class ListaDeTarefas {
 
         //Obter descrição das tarefas
         listaDeTarefas.obterDescricoesTarefas();
-
-
-
     }
 }
