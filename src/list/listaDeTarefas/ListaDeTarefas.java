@@ -1,6 +1,4 @@
-package listaDeTarefas;
-
-import com.sun.tools.javac.Main;
+package list.listaDeTarefas;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package listaDeTarefas;
+package list.listaDeTarefas;
 public class Tarefas {
     private String descricao;
 
