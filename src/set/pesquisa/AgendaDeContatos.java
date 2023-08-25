@@ -47,7 +47,6 @@ public class AgendaDeContatos {
         }
         return contatoAtualizado;
     }
-
     public static void main(String[] args) {
         AgendaDeContatos agendaDeContatos = new AgendaDeContatos();
 
