@@ -1,4 +1,4 @@
-package map.ordenacao;
+package map.pesquisa;
 public class Produto {
 
     private String nome;
