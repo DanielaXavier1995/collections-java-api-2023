@@ -10,10 +10,6 @@ public class Evento {
     public String getNome() {
         return nome;
     }
-    public String getAtracao() {
-        return atracao;
-    }
-
     @Override
     public String toString() {
         return "Evento{" +
